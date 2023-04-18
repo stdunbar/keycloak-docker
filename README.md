@@ -1,2 +1,2 @@
 # keycloak-docker
-A small Docker Compose to setup Keycloak and PostgreSQL
+A small Docker Compose to setup Keycloak and PostgreSQL.
